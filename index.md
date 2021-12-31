@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<h1>How To Pronounce Page</h1>
 
-You can use the [editor on GitHub](https://github.com/Tobanggado/how-to-pronounce-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div id="toc" style="background: #f9f9f9;border: 1px solid #aaa;display: table;margin-bottom: 1em;padding: 1em;width: 350px;"><p class="toctitle" style="font-weight: 700;text-align: center;">Content</p><ul class="toc_list"><li><a href="#toc-0">Words Related To Pronunciation</a></li><li><a href="#toc-1">Web Page Pronunciation With Meanings, Synonyms, Antonyms, Translations, Sentences And More</a></li><li><a href="#toc-2">Why German Pronunciation Isnt That Dangerous</a></li><li><a href="#toc-3">Why Is It The Right Pronunciation?</a></li><li><a href="#toc-9">Which Is The Proper Way To Pronounce The Word Antiquated?</a></li></ul></div>
+<p>If the Jif peanut butter company by no means existed, he would have by no means pronounced GIF with a soft G. The French letter r is certainly one of the two most tough sounds in French to pronounce for most individuals . In nearest future, there shall be Page pronunciation in Spanish, French, German and Portuguese.</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>Why did Van Gogh cut his ear?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>Vincent van Gogh reduce off his left ear when tempers flared with Paul Gauguin, the artist with whom he had been working for a while in Arles. Van Gogh's illness revealed itself: he started to hallucinate and suffered attacks by which he lost consciousness. During considered one of these attacks, he used the knife.</p></div>  </div></div>
+<p>You’ve perhaps seen the meme about totally different languages, the place the “normal” languages like English, Spanish and French all have related phrases for one factor, however then the German word is lengthy, weirdand consonant-filled. Marie has an exquisite article about reversals with tactile concepts, activities using giant arm movements, and analogies. It is specific to b and d, however the tips apply to any letter pairs that a student could confuse. I love that that your youngsters are eager to begin spelling!</p>
+<h2 id="toc-0">Words Related To Pronunciation</h2>
+<p>By orienting the scholars to the content material they have been finding out, teachers can help be sure that the definitions college students provide might be applicable to the lesson. It should take only seconds to implement this method for each educational vocabulary word. The key to success is to keep it brief and to conduct the exercise with confidence. If the instructor appears uncomfortable breaking apart the words and pronouncing them, the scholars who most want this help will be even less inclined to reap the benefits of the evaluate. In addition, lecturers need to make sure that they will break the phrases aside appropriately before they really reveal doing so in school. They must also take care that they're themselves saying the words appropriately (e.g., the trainer who says “nucular” for the word nuclear).</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>Why are Paraverbal expertise important?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>Paraverbal communication skill is deemed important in enhancing the message supply because it highly influences the listeners' meaning-making course of. An example of paraverbal communication is when an individual is livid or excited, the speech tends to be in a higher pitch and at a more speedy pace.</p></div>  </div></div>
+<p>First, let your baby know which one of many homophone pairs or triples is most commonly used. In the case of “there”, “their”, and “they’re”, “there” is used more incessantly than the opposite two. Then, assist him make a “clue sheet” or paper that he can discuss with when he is not sure. Help him to discover a easy definition for “their” and “they’re” and write a sentence utilizing every appropriately.</p>
+<h3 id="toc-1">Web Page Pronunciation With Meanings, Synonyms, Antonyms, Translations, Sentences And More</h3>
+<p>The instructor ought to explain every time period with respect to the method it applies to the fabric the scholars shall be reading. Notice that every one of these terms are multisyllabic and a few have letter sequences that don't seem to match their pronunciation (e.g., soldier). So although the trainer expected that college students would already know this word, it could solely be in their oral vocabulary and never of their print vocabulary. In addition, the instructor can anticipate that many of the unfamiliar phrases shall be in neither the students’ oral or print vocabularies.</p>
+<div itemScope itemProp="mainEntity" itemType="https://schema.org/Question">  <div itemProp="name"><h2>How do you write Jungkook in Korean?</h2></div>  <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">      <div itemProp="text"><p>Jeon Jung-kook (Korean: 전정국; born September 1, 1997), known mononymously as Jungkook, is a South Korean singer. He is the youngest member and vocalist of the South Korean boy band BTS.</p></div>  </div></div>
+<p>For Japanese, the ruby component is used for displaying the "studying" rather than "pronunciation." There are different choices that may work better for you primarily based on what you have used/have access to in your device. Technologies like QuickTime and Audacity can create audio files; you can addContent these files to Kaltura, YouTube, One Drive, etc. to generate a hyperlink to the recording. The hyperlink is what you should add to your Canvas profile.</p>
+<h3 id="toc-2">Why German Pronunciation Isnt That Unhealthy</h3>
+<p>Germandoes are inclined to have some long words, but it’s not truly that unhealthy. And no less than in comparison with different languages, it’s really not that troublesome to pronounce as quickly as you’ve learnedhow to pronounce the words. Several occasions in my life, my merged vowels have wreaked hilarious havoc. It was only as a end result of I’d studied linguistics that the newer interactions stopped before they would have, as I realized earlier than my confused interlocutors did what the basis of the problem was . After college students have outlined as many words as they will on their very own, the teacher can then offer her own student-friendly definitions for any remaining phrases in the record.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tobanggado/how-to-pronounce-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>You can hear to six audio pronunciation by different individuals. There are American and British English variants as a outcome of they sound little different. Any recommendations for the means to cope with confusing a and e when spelling words with quick vowels in AAS1?</p>
+<h2 id="toc-3">Why Is It The Right Pronunciation?</h2>
+<p>This argument has been going on since shortly after Vasja Pirc introduced the defense. I suspect that the right pronunciation in his nation could be "peertz", however I say "perk" and only a few folks I know would be prepared to challenge me on this head to head. This jogs my memory of "gomboc"; how do you say the name of arguably the most thrilling growth in 3-D strong geometry in our lifetimes? The Hungarians who discovered it, with assist from a Russian mathematician, put umlauts over both O's, but I do not know tips on how to put umlauts in feedback and I say "gumbuck". However, if these usually are not obtainable, the next basic guidelines could additionally be used to find out which syllable is accented and whether or not the vowel of that syllable is long or brief. You can output the textual content and its phonetic transcription along every different side-by-side or line-by-line to make back-reference to the unique text easier.</p>
+<div style='text-align:center'><iframe width='560' height='312' src='https://www.youtube.com/embed/k6RgR_8F69E' frameborder='0' alt='how to pronounce page' allowfullscreen></iframe></div>
